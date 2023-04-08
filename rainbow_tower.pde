@@ -11,4 +11,6 @@ void draw()
   colorMode(RGB, 1);
   background(0);
   tower.draw();
+  
+  //saveFrame("######.png");
 }
